@@ -1,0 +1,11 @@
+write a java program to compute the parameter and area of rectangle with a height of 7 inch and with oif 5 inch 
+write a java program to to compute the parameter and area of the circle with the radius of 6 inch
+write a java program to convert specified dauys into years, weeks and days 
+write a java program to that accept 2 integers from the users and calci the sum of 2 integers
+write a java program to that accept 2 items weight (floating pt values) and num of purchase (floating pt values) & calci the average value of item
+write a java program  that accept impId, total work hrs of months and the amount he recives/hrs print empId and salary (to decimal places) of a particular months.
+write a java program  that accept 3 integer and find max of 3
+write a java program  to calci bike average consumption from given toatal distance(integer value) travel in km and fuel(in lit,float num - 2decimal pts).	 
+write a java a program to calci the distance between to 2 points 
+write a java program  to read an amount *(integer value) and break amount into smallest possaivble no of bank notes
+                                                                  
