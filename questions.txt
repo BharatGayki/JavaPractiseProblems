@@ -9,3 +9,11 @@ write a java program  to calci bike average consumption from given toatal distan
 write a java a program to calci the distance between to 2 points 
 write a java program  to read an amount *(integer value) and break amount into smallest possaivble no of bank notes
                                                                   
+
+
+
+
+
+
+
+
