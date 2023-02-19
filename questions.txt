@@ -9,8 +9,14 @@ write a java program  to calci bike average consumption from given toatal distan
 write a java a program to calci the distance between to 2 points 
 write a java program  to read an amount *(integer value) and break amount into smallest possaivble no of bank notes
                                                                   
+-------------------------------------------------
+write a program to enter integer num into hrs min and sec
 
+write a program to enter integer num in days and convert to yr months and days assume all month have 30 days and yeras have 365 days
 
+write a program to accept 4 integer p,q,r,s from user where r&s are +ve and p is even if q>r and s>p and if sum of r&s > the sum of p&q prinnt current value otherwise print wrong value 
+
+write a program to  
 
 
 
